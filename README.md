@@ -1,3 +1,5 @@
+https://poriadinsky.github.io/ajs-3-events/
+
 
 ![CI](https://github.com/Poriadinsky/ajs-1/actions/workflows/web.yml/badge.svg)
 
